@@ -37,7 +37,7 @@
 
     [[main]]
        name = "Course Outline"
-    url = "files/MFIT841_CourseOutline.pdf"
+    url = "https://www.dropbox.com/s/agvlbgyepr18xar/MFIT841_CourseOutline.docx?dl=0"
        weight = 200
 
 #[[main]]
