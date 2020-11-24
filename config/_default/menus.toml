@@ -24,6 +24,12 @@
   weight = 40
 
   [[main]]
+    name = "Session 1"
+    parent = "course-parent"
+    url = "session-1/"
+    weight = 50
+
+  [[main]]
     name = "Course"
     url = "course/"
     weight = 50
