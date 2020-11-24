@@ -13,7 +13,7 @@ weight: 3
 <p>So far, we have looked at how individual orders operate within one market. However, multiple markets exist for trading the same asset. These multiple markets lead to what is called “fragmented markets." Each market operates with slightly different order priorities and rules of trading, consequently, making trade more complicated. Orders that may execute first in one market may not execute at all in another market. Understanding these rules of execution priority and making decisions about which market is the best for a given order is an important part of trading in fragmented markets. The next video will illustrate how multiple markets have an effect on calculating execution prices.
 </p>
  
-### Video: Introduction to Multiple Markets - Dr. Riordan</h4>
+### Video: Introduction to Multiple Markets
 {{< video library="true" src="Introtomultiplemarkets.mp4" controls="yes" >}}
 
 ### Calculating Execution Prices
