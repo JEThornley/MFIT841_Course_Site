@@ -24,15 +24,18 @@
   weight = 40
 
   [[main]]
-    name = "Session 1"
-    parent = "course-parent"
-    url = "session-1/"
-    weight = 50
+    name = "Course Content"
+    identifier = "course-parent"
+    url = ""
+    weight = 41
 
   [[main]]
-    name = "Course"
-    url = "course/"
+    name = "Session 1"
+    parent = "course-parent"
+    url = "course/session-1/"
     weight = 50
+
+  
 
 [[main]]
   name = "Contact"
