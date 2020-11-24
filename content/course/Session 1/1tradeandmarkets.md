@@ -25,7 +25,7 @@ weight: 1
 
 * **[Market Economy, Its Characteristics, Pros, and Cons, with Examples](https://www.thebalance.com/market-economy-characteristics-examples-pros-cons-3305586) Amadeo, K. (2020, April 6). Retrieved on September 5, 2020 from https://www.thebalance.com/market-economy-characteristics-examples-pros-cons-3305586**
 
-
+</br>
 ## Financial Markets
 
 ### Video: Financial Markets
