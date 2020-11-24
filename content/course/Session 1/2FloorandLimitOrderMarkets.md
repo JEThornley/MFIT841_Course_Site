@@ -16,8 +16,8 @@ weight: 2
 <p>In the limit order books you will be viewing and constructing in this course, bids will be found on the left side, and offers will be found on the right side.
 Bids and offers enter the order book at the time the order is made. Therefore, a bid may arrive before an executable offer is available.</p>
 <p>Example:</p>
+{{< figure library="true" src="introexec.png"  >}}
 
-<img class="" style="width:500px;" src="introexec.png" />
 <strong>Price</strong>
 <p>New orders enter the order book in terms of price. The highest priced bids are entered at the top of each column. Thus, bids and offers are in price order top to bottom.</p>
 <p>Bids at the top of the bids columns execute against offers at the bottom of the offers columns.</p>
