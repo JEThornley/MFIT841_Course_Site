@@ -10,12 +10,24 @@ weight: 3
 
 ## Multiple Markets
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+<p>So far, we have looked at how individual orders operate within one market. However, multiple markets exist for trading the same asset. These multiple markets lead to what is called “fragmented markets." Each market operates with slightly different order priorities and rules of trading, consequently, making trade more complicated. Orders that may execute first in one market may not execute at all in another market. Understanding these rules of execution priority and making decisions about which market is the best for a given order is an important part of trading in fragmented markets. The next video will illustrate how multiple markets have an effect on calculating execution prices.
+</p>
+ 
+### Video: Introduction to Multiple Markets - Dr. Riordan</h4>
+{{< video library="true" src="Introtomultiplemarkets.mp4" controls="yes" >}}
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+### Calculating Execution Prices
+<p>What does it mean to calculate the execution price?
+</p>
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+<p>Throughout the rest of this course, you will sometimes be asked to “calculate the execution price” of a bid or offer. This means that you should delete any transacting bids and offers from the order book and then list any order that transacts in the sequence in which they execute. You should include how many shares and at what price. See the example below.</p>
+<p>Example:</p>
+{{< figure library="true" src="execprice1.png"  >}}
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
-
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+<p>This example has some orders that would transact and therefore, it is not an authentic view of an order book because those transactable orders would immediately execute and be deleted from the order book. </p>
+<b>For example:</b>
+<p>“The bid for 200 shares at $5.18 would immediately transact with the offer for 100 shares at $5.07. That offer would be completely fulfilled and would immediately disappear. There would be 100 shares of the bid at $5.18 remaining.</p>
+<p>Then, the remaining 100 shares of the bid for 200 shares at $5.18 that did not previously transact would  execute against the next top-of-book offer for 150 shares at $5.12.”
+</p>
+<p>The resulting order book after the transaction would look like this:</p>
+{{< figure library="true" src="execprice2.png"  >}}
