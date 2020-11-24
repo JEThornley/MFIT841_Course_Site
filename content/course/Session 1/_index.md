@@ -19,6 +19,12 @@ Technology has undeniably changed how financial markets and institutions functio
 The course will study both the good and bad, regulatory aspects, and whether or not these innovations are exploiting or supporting “social welfare”. All of these aspects are changing the skills required to be successful in modern finance. We will also cover how finance has changed and is changing, the skills required to be successful and what the future may bring. Where possible we will link new phenomena to classical finance theory and highlight where predictions and reality have diverged. 
 
 
+{{% callout note %}}
+Review the [Quick Tips for Online Learning Success]({{< ref "/files/Online_Learning_Tips.pdf" >}}) document to make your
+experience as meaningful as possible.
+{{% /callout %}}
+
+
 ## Learning Objectives and Methods
 
 The course is designed to present students with an alternate lens on finance, particularly financial markets, trading and investing, by extending the theoretical models and lessons of classical finance. This course will provide a fresh view on what may change and what may not. The class will revisit classic economic theories, how they may be changing, and potentially new economic theories and results. Innovations in trading including, high frequency and algorithmic trading, automated markets, and market speed bumps will be examined from a market welfare perspective. 
