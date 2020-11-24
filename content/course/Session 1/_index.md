@@ -12,14 +12,16 @@ date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
-Welcome to MFIT841!
-
 ## Course Overview
 
 Technology has undeniably changed how financial markets and institutions function. Every part of the financial value chain is being “disrupted” by nimble technology-based innovators. The payment system is digital, currency is electronic and investment advisors are being replaced by algorithms. Where one-on-one relationships used to determine success and failure, the ability to process and act on massive amounts of data is taking over. Securities trading and origination typically the turf of large institutions is being taken over by technology. Not only has technology impacted finance – innovations like indexing and fee-based advisors are fast changing the market for advice. Social Media has changed the landscape and speed of information dissemination. High frequency and algorithmic trading take advantage of fast access to information and technology to trade in milliseconds. Technology and financial innovations can be used for good or not so good purposes. For instance, it can be used to exploit behavioral biases such as underweighting catastrophic events - think of the financial crisis! 
 
 The course will study both the good and bad, regulatory aspects, and whether or not these innovations are exploiting or supporting “social welfare”. All of these aspects are changing the skills required to be successful in modern finance. We will also cover how finance has changed and is changing, the skills required to be successful and what the future may bring. Where possible we will link new phenomena to classical finance theory and highlight where predictions and reality have diverged. 
 
+{{% callout note %}}
+Review the [Quick Tips for Online Learning Success]({{< ref "/files/Online_Learning_Tips.pdf" >}}) document to make your
+experience as meaningful as possible.
+{{% /callout %}}
 
 ## Learning Objectives and Methods
 
@@ -56,6 +58,8 @@ This class will be delivered in-part asynchronously. That means that students wi
 *	**Market Data Analysis (Individual) - 20%**
 
 The final market data assignment is due on December 4th, 2020. 
+
+
 
 
 
