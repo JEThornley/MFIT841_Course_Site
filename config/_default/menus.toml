@@ -37,7 +37,7 @@
 
     [[main]]
        name = "Course Outline"
-    url = "files/MFIN841_CourseOutline.pdf"
+    url = "files/MFIT841_CourseOutline.pdf"
        weight = 200
 
 #[[main]]
