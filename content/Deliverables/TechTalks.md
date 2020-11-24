@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = ""
+title = "Tech Talks"
 subtitle = ""
 
 [content]
@@ -23,7 +23,7 @@ subtitle = ""
   
   [[content.filter_button]]
    name = "All"
-   tag = "readings9robo"
+   tag = "devtt"
    
 
 [design]
