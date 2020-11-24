@@ -20,7 +20,7 @@ The course will study both the good and bad, regulatory aspects, and whether or 
 
 
 {{% callout note %}}
-Review the [Quick Tips for Online Learning Success]({{< relref "Online_Learning_Tips.pdf" >}}) document to make your
+Review the {{% staticref "files/Online_Learning_Tips.pdf" "newtab" %}}Quick Tips for Online Learning Success{{% /staticref %}} document to make your
 experience as meaningful as possible.
 {{% /callout %}}
 
