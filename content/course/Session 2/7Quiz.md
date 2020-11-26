@@ -1,5 +1,5 @@
 ---
-title: Session 3 Quiz
+title: Session 2 Quiz (2)
 linktitle: Quiz
 type: book
 date: "2019-05-05T00:00:00+01:00"
@@ -8,11 +8,11 @@ date: "2019-05-05T00:00:00+01:00"
 weight: 7
 ---
 
-## Session 3 Quiz
+## Session 2 Quiz (2)
 
 
 {{% callout note %}}
-Take the session 3 Quiz: https://forms.gle/4hozAkmAbkgKAtK97
+Take the session 2 Quiz (2): https://forms.gle/4hozAkmAbkgKAtK97
 {{% /callout %}}
 
 Quizzes are used to help assess student participation.
