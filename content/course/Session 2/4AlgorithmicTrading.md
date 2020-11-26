@@ -5,7 +5,7 @@ type: book
 date: "2019-05-05T00:00:00+01:00"
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
+weight: 4
 ---
 
 <p>In algorithmic trading, the trading process is automated according to a set of pre-programmed rules and strategies that account for variables such as time, price, and volume. This enables investors to trade quickly, accurately and at reduced costs. </p>

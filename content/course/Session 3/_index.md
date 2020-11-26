@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Session 3
-summary: High Frequency Trading and Algorithmic Trading
+summary: Innovative Market Structures
 
 weight: 1
 icon: book
@@ -13,11 +13,12 @@ date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
-We’ll explore the impacts of algorithmic and high-frequency trading on markets and the construction of execution benchmarks.
-
+We’ll explore speed bumps, dark markets and the current discourse of each.
 
 At the end of this week, you will be able to: 
-1. Describe the impact of high frequency trading in stock markets. 
-1. Identify the differences between algorithmic trading and high frequency trading.  
-1. Understand how execution benchmarks are constructed. 
-</br></br>
+1. Explain the advantages and disadvantages of speed bumps.
+1. Weigh the advantages and risks of dark liquidity.
+1. Compare the key features that distinguish dark markets from lit exchanges.
+1. Evaluate when a dark market would be preferred over a lit market for a particular client, asset, or situation.
+ 
+
